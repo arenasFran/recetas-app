@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "nombre": "Stroganoff de carne",
+    "ingredientes": [
+      "500g de carne de res (lomo o nalga) cortada en tiras",
+      "1 cebolla mediana picada",
+      "2 dientes de ajo picados",
+      "200g de champiñones laminados",
+      "200ml de crema de leche",
+      "2 cucharadas de mostaza",
+      "2 cucharadas de ketchup",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "Perejil picado (opcional)"
+    ],
+    "instrucciones": "1. Calentar un poco de aceite en una sartén grande y dorar la carne a fuego alto. Retirar y reservar.\n2. En la misma sartén, saltear la cebolla y el ajo hasta que estén transparentes.\n3. Agregar los champiñones y cocinar hasta que suelten el agua.\n4. Incorporar la carne nuevamente, añadir la mostaza y el ketchup, mezclar bien.\n5. Bajar el fuego y agregar la crema de leche, cocinando unos minutos hasta que la salsa espese.\n6. Ajustar con sal y pimienta al gusto. Servir caliente con arroz o papas, decorado con perejil picado.",
+    "tiempoPreparacion": 40,
+    "porciones": 4,
+    "fechaCreacion": "2025-08-16T23:02:57.451Z",
+    "fechaModificacion": "2025-08-16T23:02:57.451Z"
+  },
+  {
+    "nombre": "Tortilla de papas",
+    "ingredientes": [
+      "4 papas medianas",
+      "6 huevos",
+      "1 cebolla",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "instrucciones": "1. Pelar y cortar las papas en rodajas finas. Picar la cebolla.\n2. Freír las papas y la cebolla en aceite de oliva hasta que estén tiernas.\n3. Batir los huevos en un bol y mezclar con las papas y cebolla cocidas.\n4. Volver a poner la mezcla en la sartén a fuego medio-bajo hasta que cuaje por un lado, dar vuelta y terminar de cocinar.\n5. Servir caliente o templada.",
+    "tiempoPreparacion": 35,
+    "porciones": 4,
+    "id": 2,
+    "fechaCreacion": "2025-08-16T23:05:20.817Z",
+    "fechaModificacion": "2025-08-16T23:05:20.817Z"
+  }
+]
